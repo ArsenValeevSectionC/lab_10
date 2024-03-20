@@ -1,0 +1,22 @@
+.image {
+    transition: transform 0.3s ease;
+}
+
+.image:hover{
+    transform: scale(1.1); 
+}
+
+.card{
+    background-color: grey;
+}
+
+.link_mail{
+    text-decoration: none;
+    color: rgb(202, 202, 202);
+    font-size: 16px;
+}
+
+footer {
+    color: rgb(202, 202, 202);
+    text-align: center;
+}
